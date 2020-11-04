@@ -1,8 +1,8 @@
-1. [dom-diff解析](https://vue-js.com/learn-vue/virtualDOM/patch.html)
+#### 1. [dom-diff解析](https://vue-js.com/learn-vue/virtualDOM/patch.html)
 
 > Vue中的DOM-Diff算法：patch过程，了解了整个patch过程干了三件事，分别是：创建节点，删除节点，更新节点。
 
-2. vue如何实现数据驱动视图
+#### 2. vue如何实现数据驱动视图
 
 [变化侦测篇](https://vue-js.com/learn-vue/reactive/#_1-%E5%89%8D%E8%A8%80)
 
@@ -18,11 +18,11 @@
     3. 对数组的依赖收集及数据变化通知依赖
 
 
-3. vue3.0种proxy和defineProperty
+#### 3. vue3.0种proxy和defineProperty
 
 [初探 Vue3.0 中的一大亮点——Proxy !](https://www.jianshu.com/p/2a8ec76e0090)
 
 > 1. 消除之前Vue2.x中基于Object.defineProperty的实现所存在的很多限制：无法监听属性的添加和删除、数组索引和长度的变更，并可以支持Map、Set、WeakMap和WeakSet！
 > 2. MDN 上是这么描述的——Proxy对象用于定义基本操作的自定义行为（如属性查找，赋值，枚举，函数调用等） 
 
-4. MVVM流程图
+#### 4. MVVM流程图

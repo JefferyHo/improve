@@ -1,6 +1,6 @@
 ### 前端补习
 
-#### JS篇(./js.md)
+#### [JS篇](./js.md)
 1. [判断数组的4种方法](https://www.cnblogs.com/guanqiweb/p/10625539.html)
 2. JS继承
 

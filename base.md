@@ -17,3 +17,12 @@ Expire: 绝对时间的GMT格式的时间字符串
 
 Etag(If-None-Match)
 Last-Modify(If-Modified-Since)
+
+
+### 2. PFC
+
+#### 3. 重绘和重塑
+
+#### 4. fetch和ajax区别
+
+#### 5. http2和http1.1区别

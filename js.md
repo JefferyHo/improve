@@ -33,3 +33,31 @@
     Child.prototype = new Parent();
     Child.prototype.constuctor = Child;
     ```
+
+
+#### 3. [typeof](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/typeof)
+
+1. typeof 返回 undefined, number, string, boolean, function, object, symbol(+), bigint(+)
+
+2. typeof 无法区分 *null, array, object, 正则*
+
+#### 4. [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
+
+1. async返回的是promise对象
+2. await表达式自右向左运算，如果等到的不是promise，则同步任务，如果是，则进入微任务then
+
+#### 5. [prototype & __proto__ & constructor](https://blog.csdn.net/cc18868876837/article/details/81211729)
+
+__proto__   对象 -> 原型对象
+prototype   函数 -> 原型对象
+constructor 原型对象 -> 构造函数
+
+![prototype](./prototype.png)
+
+
+#### 6. 函数柯里化
+
+#### 7. 
+
+
+
